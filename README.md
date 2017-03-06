@@ -1,7 +1,7 @@
 # feature-tiles
 Displaying the features of your product and/or services is important on your website. While some may use plain text with bullet points, others tend to lean more on the visual side of things to display their features. Using visuals to communicate your features to website visitors has become increasingly more popular to the point of being a best practice. 
 
-Providing visual context to the features gives your website visitors a more immediate understanding of your overall offering. In this article, [Solodev](https://www.solodev.com/) will teach you how to add feature tiles containing [Font Awesome](http://fontawesome.io/) icons to your website. Enjoy!
+Providing visual context to the features gives your website visitors a more immediate understanding of your overall offering. In this article, [Solodev](https://www.solodev.com/) will teach you how to add feature tiles containing [Font Awesome](http://fontawesome.io/) icons to your website. 
 
 ## Tutorials
 
